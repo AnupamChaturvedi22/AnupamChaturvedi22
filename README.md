@@ -1,4 +1,5 @@
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anupam Chaturvedi
+====================================================================================================================================
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-chaturvedi-835103312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupamc693@gmail.com) 
 
